@@ -8,7 +8,7 @@ document.getElementById('button-login')
       console.log(phoneNumber,pinNumber);
       if(phoneNumber==='5' && pinNumber === '1234'){
          console.log('you are logged in ');
-         window.location.href = '/index2.html';
+         window.location.href = '../index2.html';
 
       }
       else{
