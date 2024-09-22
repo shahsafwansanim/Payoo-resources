@@ -2,11 +2,9 @@
     @media  screen and (max-width: 576px) {
         #hi{
               flex-direction: column;
+           
         }
-        #shah{
-            size:5px;
-            zoom: none;
-        }
+        
         }
 
     
